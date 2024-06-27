@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(253, 196, 9);
+}
+.navbar-brand{
+    color: black;
+    font-weight: 900;
+}
+.nav-link{
+    color: black;
+    font-weight: 900;
+}
+.logocu{
+    width: 20px;
+    height: 20px;
+}
+.nosotros {
+    text-align: justify;
+    line-height: 2em;
+}
